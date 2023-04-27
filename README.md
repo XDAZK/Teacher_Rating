@@ -12,8 +12,8 @@
         <h3>Form 1: form này câu 1 có 4 đáp án.</h3>
         <h3>Form 2: form này câu 1 có 4 đáp án nhưng mà để ý câu 2 có cho chọn google meet, team học online gì đó...</h3>
         <h3>Form 3: form này chỉ có 2 đáp án ở câu 1 thui à.</h3>
-        <h3>Form 4: form này là form đánh giá khóa học qua các năm á</h3>
-        <h3>Form 5: form này là form đánh giá đội ngũ nv,phòng đào tạo các thứ nè</h3>
+        <h3>Form 4: form này là form đánh giá đội ngũ nv,phòng đào tạo các thứ nè</h3>
+        <h3>Form 5: form này là form đánh giá khóa học qua các năm á</h3>
     </div>
 </body>
 </html>
