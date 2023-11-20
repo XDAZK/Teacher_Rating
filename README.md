@@ -14,7 +14,8 @@
         <h3>Form 3: form này chỉ có 2 đáp án ở câu 1 thui à.</h3>
         <h3>Form 4: form này là form đánh giá đội ngũ nv,phòng đào tạo các thứ nè</h3>
         <h3>Form 5: form này là form đánh giá khóa học qua các năm á</h3>
-        <h3>Form 6: form này là form câu đầu 4 đáp án , cái sau là Tiêu chí 1: Chuẩn bị giảng dạy. Giảng viên có công bố đầy đủ cho SV về: pla pla</h3>
+        <h3>Form 6: form này là form câu đầu 4 đáp án , cái sau là Tiêu chí 1: Chuẩn bị giảng dạy</h3>
+        <h3>Form 7: form này là form câu đầu 4 đáp án , cái sau là Tiêu chí 1: Chuẩn bị giảng dạy. Giảng viên có công bố đầy đủ cho SV về: pla pla</h3>
         <h3>Form cuối: form tốt nghiệp nè ^^</h3>
     </div>
 </body>
